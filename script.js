@@ -13,7 +13,8 @@
     // filler
 
     var elFiller = document.querySelector('.filler');
-        elFiller.innerHTML = new Array(5000).join('<span> filler </span>');
+
+    elFiller.innerHTML = new Array(5000).join('<span> filler </span>');
 
 
     // size type selector
