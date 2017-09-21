@@ -1,6 +1,6 @@
 
 
-    // drag
+    // Drag
 
     var elBox = document.querySelector('#container .box');
 
@@ -10,14 +10,14 @@
     });
 
 
-    // filler
+    // Filler
 
     var elFiller = document.querySelector('.filler');
 
     elFiller.innerHTML = new Array(5000).join('<span> filler </span>');
 
 
-    // size type selector
+    // Unit type selector
 
     var elContainer = document.querySelector('#container');
     var elButtons   = document.querySelector('#buttons');
