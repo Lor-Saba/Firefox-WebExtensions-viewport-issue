@@ -1,4 +1,4 @@
-# Firefox-WebExtensions-viewport-issue
+# Firefox-WebExtensions-viewport-units-issue
 
 Demonstration of performance issue while using sizes with [*Viewport Unit*](https://www.w3schools.com/cssref/css_units.asp).
 
